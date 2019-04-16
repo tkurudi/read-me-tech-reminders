@@ -13,3 +13,6 @@ https://www.udemy.com/professional-rails-5-development-course/learn/v4/t/lecture
 ANZ
 XERO https://stackify.com/troubleshooting-vs-debugging-whats-the-difference-best-practices/  || https://www.xero.com/nz/about/careers/graduate/grad-developer-2019/
 summer of tech
+
+
+https://dashboard.heroku.com/apps/warm-spire-61995/deploy/heroku-git
